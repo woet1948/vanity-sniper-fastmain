@@ -4,5 +4,7 @@ saglam guzel bi koddur mfasi icinde direkt calisir const tagindaki bilgileri dol
 # open cmd and type these to download the modules
 
 npm init -y
+
 npm install
+
 npm i ws fs tls axios
